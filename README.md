@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Geethal Rathnayake</h1>
 <h3 align="center">A passionate Software Engineer from Sri Lanka</h3>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1019864/screenshots/3079099/media/9e5055da2ee6c899aab9403ceb7d0dc3.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=geethal97&label=Profile%20views&color=0e75b6&style=flat" alt="geethal97" /> </p>
 
